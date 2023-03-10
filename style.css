@@ -141,7 +141,7 @@ section:last-child {
 	margin-bottom: 3px;
 }
 
-.keySkills {
+.softSkills, .tecnologias {
 	list-style-type: none;
 	-moz-column-count:3;
 	-webkit-column-count:3;
@@ -151,7 +151,7 @@ section:last-child {
 	color: #444;
 }
 
-.keySkills ul li {
+.softSkills, .tecnologias ul li {
 	margin-bottom: 3px;
 }
 
@@ -160,7 +160,7 @@ section:last-child {
 		display: none;
 	}
 	
-	.keySkills {
+	.softSkills, .tecnologias {
 	-moz-column-count:2;
 	-webkit-column-count:2;
 	column-count:2;
@@ -194,7 +194,7 @@ section:last-child {
 		font-size: 1.25em;
 	}
 	
-	.keySkills {
+	.softSkills, .tecnologias {
 		-moz-column-count:2;
 		-webkit-column-count:2;
 		column-count:2;
@@ -215,7 +215,7 @@ section:last-child {
 	}
 
 	
-	.keySkills {
+	.softSkills, .tecnologias {
 	-moz-column-count:1;
 	-webkit-column-count:1;
 	column-count:1;
